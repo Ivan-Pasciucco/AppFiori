@@ -1,0 +1,1 @@
+{"version":3,"file":"App.controller.js","names":["sap","ui","define","Controller","MessageToast","extend","onShowHello","show"],"sources":["App-dbg.controller.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,CACb,6BACA,sBACE,SAAUC,EAAYC,GACxB,aAEA,OAAOD,EAAWE,OAAO,yCAA0C,CAElEC,YAAa,WACZF,EAAaG,KAAK,cACnB,GAGF"}
